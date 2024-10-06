@@ -1,0 +1,130 @@
+body{
+    background-color: ivory;
+    margin: 0,auto;
+}
+nav {
+    background-color: rgb(85, 164, 225);
+    width: 0,auto;
+    height: 90px;
+    width: 100%;
+    border-radius: 10px;
+}
+nav a{
+    
+    color: white;
+    text-decoration: none;
+    margin-left: 90px;
+    padding: 10, 15px;
+    align-items: center;
+    font-size: medium;
+    
+}
+nav a{
+    font-size: large;
+}
+nav h1{
+    float: right;
+    margin-right: 20px;
+}
+.banner{                                    /* this a banner*/
+    width: 90%;
+    height: 1000px;
+    margin-left: 95px;
+    margin-top: 10px;
+   
+    
+}
+.ban{
+    width: 100%;
+    height: 1000px;
+    margin-left: 1px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+div img{
+    height:300px ;
+    width:200px ;
+}
+div button{                                     /* note this a button */
+    background-color: rgb(100, 157, 232);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    font-size: small;
+    margin-bottom: 20px;
+    margin-left: 1500px;
+
+}
+.last{
+    background-color: black;
+    padding: 30px;
+    height: 130px;
+    font-size: medium;
+    bor
+}
+.la{
+    color:white ;
+}
+div ul{
+    float: right;
+}
+.containerz{
+    background-color: brown;
+    display: flex;
+    height: 300px;
+}
+.na{
+width: 20%;
+height: 20px;
+}
+.cc{
+    background-color: pink;
+}
+h5{
+    top: 50%;
+    bottom: 50%;
+    position: absolute;
+    transform: translate(-50%,50%);
+    align-content: center;
+    margin-left: 300px;
+    font-size:xx-large;
+    color: white;
+}
+.la{
+    margin-left: 50px;
+    font-size:large ;
+    margin-right: 90px;
+}
+.ib{
+    font-size: large;
+    margin-left: 20px;
+}
+ul li{
+    text-decoration: none;
+    color: white;
+}
+.hp{
+    color: white;
+}
+.pp{
+    color: gray;
+}
+h1 u {
+    color: rgb(115, 164, 222);
+}
+.ser{
+    color: rgb(115, 164, 222);
+}
+.s{
+    margin-left: 60px;
+    background-color: rgb(186, 226, 236);
+    height: 160px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    padding-top: 4px;
+    margin-right: 60px;
+    
+}
+.h4{
+    text-align: center;
+}
